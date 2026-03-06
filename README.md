@@ -1,1 +1,2 @@
-# odin-recipes
+En este proyecto se verá lo aprendido concerniente a HTML. Consiste en una página principal con redirecciones a 3 recetas.
+Usé encabezados, listas ordenadas y desordenadas, creé enlaces a imágenes desde mi repositorio local.
